@@ -3,7 +3,7 @@ import os
 from emoji import emojize
 
 # токен выдается при регистрации приложения
-TOKEN = '6148562312:AAGuaYwn1QsR-shg3sC8ypr_AvvLDlxqIHc'
+TOKEN = '6148562312:AAGamUTmDA018YXAUzlt7pHec-o37HJDKDo'
 # название БД
 NAME_DB = 'products.db'
 # версия приложения
